@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic>=2.0.0
+langgraph>=0.2.0
+langchain-core>=0.3.0
+rank-bm25
+scikit-learn
+httpx
+pytest>=8.0.0
